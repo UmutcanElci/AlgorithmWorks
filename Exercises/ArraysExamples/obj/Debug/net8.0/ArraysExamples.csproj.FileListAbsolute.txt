@@ -1,0 +1,15 @@
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\ArraysExamples.exe
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\ArraysExamples.deps.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\ArraysExamples.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\ArraysExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\ArraysExamples.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.AssemblyInfoInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.AssemblyInfo.cs
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.csproj.CoreCompileInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.sourcelink.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\refint\ArraysExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.genruntimeconfig.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ref\ArraysExamples.dll
