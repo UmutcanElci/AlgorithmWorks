@@ -1,0 +1,15 @@
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\bin\Debug\net8.0\HashSetExamples.exe
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\bin\Debug\net8.0\HashSetExamples.deps.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\bin\Debug\net8.0\HashSetExamples.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\bin\Debug\net8.0\HashSetExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\bin\Debug\net8.0\HashSetExamples.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.AssemblyInfoInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.AssemblyInfo.cs
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.csproj.CoreCompileInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.sourcelink.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\refint\HashSetExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\HashSetExamples.genruntimeconfig.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\HashSetExamples\obj\Debug\net8.0\ref\HashSetExamples.dll
