@@ -2,5 +2,5 @@
 
 using ArraysExamples;
 
-Question1 question1 = new Question1();
-question1.Question();
+Question2 question2 = new Question2();
+question2.Question();
