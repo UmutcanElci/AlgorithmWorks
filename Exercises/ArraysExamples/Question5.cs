@@ -1,4 +1,6 @@
-﻿namespace ArraysExamples;
+﻿using SortingAlgoritms;
+
+namespace ArraysExamples;
 
 public class Question5
 {
@@ -12,8 +14,8 @@ public class Question5
         {
             arr[i] = int.Parse(Console.ReadLine()!);
         }
-        
-        Array.Sort(arr);// Sorting the array
+
+        SelectionSort.Sort(arr); // Sorting the array
         for (int i = 0; i < arr.Length; i++)
         {
             Console.Write(" " + arr[i]);// Printing the array
@@ -25,7 +27,7 @@ public class Question5
         int value = int.Parse(Console.ReadLine()!);
         arr[arr.Length - 1] = value;// Inserting the additional value
         
-        Array.Sort(arr);// Sorting the array
+        SelectionSort.Sort(arr);// Sorting the array
         for (int i = 0; i < arr.Length; i++)
         {
             Console.Write(" " + arr[i]);// Printing the array

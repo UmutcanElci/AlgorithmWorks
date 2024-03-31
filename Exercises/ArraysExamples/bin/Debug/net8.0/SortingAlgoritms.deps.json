@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ArraysExamples/1.0.0": {
-        "dependencies": {
-          "SortingAlgoritms": "1.0.0"
-        },
-        "runtime": {
-          "ArraysExamples.dll": {}
-        }
-      },
       "SortingAlgoritms/1.0.0": {
         "runtime": {
           "SortingAlgoritms.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ArraysExamples/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SortingAlgoritms/1.0.0": {
       "type": "project",
       "serviceable": false,
