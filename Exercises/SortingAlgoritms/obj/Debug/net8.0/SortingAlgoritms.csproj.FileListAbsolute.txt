@@ -1,0 +1,15 @@
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\bin\Debug\net8.0\SortingAlgoritms.exe
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\bin\Debug\net8.0\SortingAlgoritms.deps.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\bin\Debug\net8.0\SortingAlgoritms.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\bin\Debug\net8.0\SortingAlgoritms.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\bin\Debug\net8.0\SortingAlgoritms.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.AssemblyInfoInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.AssemblyInfo.cs
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.sourcelink.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\refint\SortingAlgoritms.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\SortingAlgoritms.genruntimeconfig.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\SortingAlgoritms\obj\Debug\net8.0\ref\SortingAlgoritms.dll
