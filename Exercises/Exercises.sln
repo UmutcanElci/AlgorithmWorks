@@ -1,8 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExamples", "ArraysExamples\ArraysExamples.csproj", "{97AF6B3C-476F-4B69-B10B-4D342591E745}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66} = {4E5723DF-F9CF-473A-A285-9FBAA52A0D66}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExamples", "StackExamples\StackExamples.csproj", "{9E7610CD-A215-4806-B656-ECA2F7EF13C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{338286C1-0B3D-4416-9B17-E7AFC5ED7BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDSArrays", "HackerRankDSArrays\HackerRankDSArrays.csproj", "{581E0507-9BC0-4084-90AA-090C27F47094}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{26F5773A-521C-44BE-ADAF-505B503EB6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgoritms", "SortingAlgoritms\SortingAlgoritms.csproj", "{4E5723DF-F9CF-473A-A285-9FBAA52A0D66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +29,18 @@ Global
 		{9E7610CD-A215-4806-B656-ECA2F7EF13C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7610CD-A215-4806-B656-ECA2F7EF13C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7610CD-A215-4806-B656-ECA2F7EF13C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581E0507-9BC0-4084-90AA-090C27F47094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581E0507-9BC0-4084-90AA-090C27F47094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581E0507-9BC0-4084-90AA-090C27F47094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581E0507-9BC0-4084-90AA-090C27F47094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97AF6B3C-476F-4B69-B10B-4D342591E745} = {338286C1-0B3D-4416-9B17-E7AFC5ED7BF2}
+		{581E0507-9BC0-4084-90AA-090C27F47094} = {338286C1-0B3D-4416-9B17-E7AFC5ED7BF2}
+		{4E5723DF-F9CF-473A-A285-9FBAA52A0D66} = {26F5773A-521C-44BE-ADAF-505B503EB6E4}
 	EndGlobalSection
 EndGlobal
