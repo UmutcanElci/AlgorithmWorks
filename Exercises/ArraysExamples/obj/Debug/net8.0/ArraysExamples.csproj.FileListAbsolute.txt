@@ -13,3 +13,10 @@ C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Deb
 C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.pdb
 C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.genruntimeconfig.cache
 C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ref\ArraysExamples.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\SortingAlgoritms.deps.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\SortingAlgoritms.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\SortingAlgoritms.exe
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\SortingAlgoritms.dll
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\bin\Debug\net8.0\SortingAlgoritms.pdb
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysExamples.csproj.AssemblyReference.cache
+C:\Users\Malat\Desktop\Code\algo\AlgorithmWorks\Exercises\ArraysExamples\obj\Debug\net8.0\ArraysEx.4D1AF5FC.Up2Date
