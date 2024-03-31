@@ -2,5 +2,5 @@
 
 using ArraysExamples;
 
-Question4 question = new Question4();
+Question5 question = new Question5();
 question.Question();
