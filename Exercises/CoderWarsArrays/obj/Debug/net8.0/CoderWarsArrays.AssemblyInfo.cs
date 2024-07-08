@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoderWarsArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7415f463655823daf4074d8297ca58b357bc2225")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d4be1dd28d281d9300ed84b2dd9d0fe83871b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoderWarsArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoderWarsArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
