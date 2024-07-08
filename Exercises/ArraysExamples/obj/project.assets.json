@@ -27,40 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Malat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/umut/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Malat\\Desktop\\Code\\algo\\AlgorithmWorks\\Exercises\\ArraysExamples\\ArraysExamples.csproj",
+      "projectUniqueName": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/ArraysExamples/ArraysExamples.csproj",
       "projectName": "ArraysExamples",
-      "projectPath": "C:\\Users\\Malat\\Desktop\\Code\\algo\\AlgorithmWorks\\Exercises\\ArraysExamples\\ArraysExamples.csproj",
-      "packagesPath": "C:\\Users\\Malat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Malat\\Desktop\\Code\\algo\\AlgorithmWorks\\Exercises\\ArraysExamples\\obj\\",
+      "projectPath": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/ArraysExamples/ArraysExamples.csproj",
+      "packagesPath": "/home/umut/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/ArraysExamples/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Malat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/umut/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Malat\\Desktop\\Code\\algo\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj": {
-              "projectPath": "C:\\Users\\Malat\\Desktop\\Code\\algo\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj"
+            "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj": {
+              "projectPath": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj"
             }
           }
         }
@@ -90,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
