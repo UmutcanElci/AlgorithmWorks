@@ -9,6 +9,9 @@ public static class ArrayPlusArray
      for (int i = 0; i < arr1.Length; i++)
      {
          sum1 = arr1[i] + sum1;
+     }
+     for (int i = 0; i < arr2.Length; i++)
+     {
          sum2 = arr2[i] + sum2;
      }
 
