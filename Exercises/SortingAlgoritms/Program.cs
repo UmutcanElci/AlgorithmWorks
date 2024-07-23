@@ -2,8 +2,8 @@
 
 using SortingAlgoritms;
 
-int[] arr = new int[5] { 7, 2, 1, 4, 5 };
-BubbleSort.Sort(arr);
+int[] arr = new int[5] { 2, 8, 5, 3, 7 };
+QuickSort.Sort(arr,0,arr.Length-1);
 
 for (int i = 0; i < 5; i++)
 {

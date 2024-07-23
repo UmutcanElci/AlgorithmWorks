@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj": {}
+    "C:\\Users\\Malat\\Desktop\\Code\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj": {
+    "C:\\Users\\Malat\\Desktop\\Code\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj",
+        "projectUniqueName": "C:\\Users\\Malat\\Desktop\\Code\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj",
         "projectName": "SortingAlgoritms",
-        "projectPath": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/SortingAlgoritms.csproj",
-        "packagesPath": "/home/umut/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/Malat/Desktop/Code/AlgorithmWorks/Exercises/SortingAlgoritms/obj/",
+        "projectPath": "C:\\Users\\Malat\\Desktop\\Code\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\SortingAlgoritms.csproj",
+        "packagesPath": "C:\\Users\\Malat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malat\\Desktop\\Code\\AlgorithmWorks\\Exercises\\SortingAlgoritms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/umut/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Malat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
