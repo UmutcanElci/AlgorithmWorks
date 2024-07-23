@@ -1,4 +1,5 @@
-Algorithm Playground
+AlgorithmWorks
+
 This is a personal project for learning and practicing algorithms using C#. It features various problems and solutions to help improve your algorithmic skills.I am still learner and there is still easy
 questions.
 
